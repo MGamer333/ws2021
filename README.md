@@ -5,6 +5,8 @@
 This project was made for the National Competion of WorldSkills 2021 Web Development category
 An attractive website for the SHanghai Park flat condominium.
 
+Check out the page here: https://pedantic-booth-3d2f9c.netlify.app/
+
 ### Author ###
 
 Marcell Németh 
